@@ -41,5 +41,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>only uses selected photos in the app</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app uses your location to tell you where you are on earth</string>
 </dict>
 </plist>
